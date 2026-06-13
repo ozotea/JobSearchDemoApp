@@ -110,15 +110,40 @@ let jobs = try await repository.fetchJobs()
 ## Project Structure
 
 ```text
-RemoteRecruit
+JobSearchDemoApp
 │
-├── App
-├── Core
-├── Domain
-├── Data
-├── Presentation
-├── Resources
-└── Tests
+├── JobSearchDemoApp.xcodeproj
+│
+├── JobSearchDemoApp
+│   ├── JobSearchDemoAppApp.swift
+│   ├── Model
+│   │   └── Job.swift
+│   ├── Networking
+│   │   └── AppContainer.swift
+│   ├── Repository
+│   │   └── JobRepository.swift
+│   ├── Services
+│   │   └── JobServiceProtocol.swift
+│   ├── State
+│   │   └── ViewState.swift
+│   ├── ViewModel
+│   │   ├── JobListViewModel.swift
+│   │   └── JobDetailViewModel.swift
+│   ├── View
+│   │   ├── JobListView.swift
+│   │   ├── JobRowView.swift
+│   │   └── JobDetailView.swift
+│   ├── Assets.xcassets
+│   └── jobs.json
+│
+├── JobSearchDemoAppTests
+│   ├── JobListViewModelTests.swift
+│   ├── JobSearchDemoAppTests.swift
+│   └── MockJobRepository.swift
+│
+└── JobSearchDemoAppUITests
+    ├── JobSearchDemoAppUITests.swift
+    └── JobSearchDemoAppUITestsLaunchTests.swift
 ```
 
 ---
@@ -142,7 +167,7 @@ git clone <repository-url>
 2. Open the project
 
 ```bash
-RemoteRecruit.xcodeproj
+JobSearchDemoApp.xcodeproj
 ```
 
 3. Build and Run
@@ -200,5 +225,5 @@ Unit tests are included for:
 
 ## Author
 
-Submitted as part of the RemoteRecruit iOS Technical Assessment.
+Submitted as part of the JobSearchDemoApp iOS Technical Assessment.
 
