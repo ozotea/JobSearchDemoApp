@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "iOS Engineer",
+    "company": "Apple",
+    "location": "Remote",
+    "salary": "$120,000 - $150,000",
+    "description": "Develop and maintain high-quality iOS applications using Swift and SwiftUI. Collaborate with cross-functional teams to deliver exceptional user experiences."
+  },
+  {
+    "id": 2,
+    "title": "Senior iOS Developer",
+    "company": "Netflix",
+    "location": "Los Angeles, CA",
+    "salary": "$140,000 - $180,000",
+    "description": "Build scalable mobile solutions and contribute to architecture decisions for Netflix mobile products."
+  },
+  {
+    "id": 3,
+    "title": "Backend Engineer",
+    "company": "Amazon",
+    "location": "Bangalore, India",
+    "salary": "$100,000 - $130,000",
+    "description": "Design and implement distributed backend systems supporting millions of users worldwide."
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer",
+    "company": "Google",
+    "location": "Hyderabad, India",
+    "salary": "$110,000 - $145,000",
+    "description": "Work across frontend and backend technologies to develop scalable web applications."
+  },
+  {
+    "id": 5,
+    "title": "Android Engineer",
+    "company": "Spotify",
+    "location": "Stockholm, Sweden",
+    "salary": "$95,000 - $125,000",
+    "description": "Build innovative Android features and optimize app performance for millions of listeners."
+  },
+  {
+    "id": 6,
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Seattle, WA",
+    "salary": "$125,000 - $160,000",
+    "description": "Develop cloud-connected software solutions and participate in product design discussions."
+  },
+  {
+    "id": 7,
+    "title": "QA Automation Engineer",
+    "company": "Adobe",
+    "location": "Noida, India",
+    "salary": "$85,000 - $110,000",
+    "description": "Create automated test suites and improve software quality through robust testing practices."
+  },
+  {
+    "id": 8,
+    "title": "Frontend Developer",
+    "company": "Airbnb",
+    "location": "Remote",
+    "salary": "$105,000 - $135,000",
+    "description": "Build engaging user interfaces with modern frontend technologies and accessibility standards."
+  },
+  {
+    "id": 9,
+    "title": "DevOps Engineer",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "salary": "$130,000 - $165,000",
+    "description": "Manage cloud infrastructure, CI/CD pipelines, and monitoring solutions."
+  },
+  {
+    "id": 10,
+    "title": "Machine Learning Engineer",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "salary": "$150,000 - $200,000",
+    "description": "Develop machine learning models and deploy AI-powered features at scale."
+  },
+  {
+    "id": 11,
+    "title": "Data Engineer",
+    "company": "LinkedIn",
+    "location": "Bangalore, India",
+    "salary": "$115,000 - $145,000",
+    "description": "Build and maintain large-scale data pipelines supporting analytics and business intelligence."
+  },
+  {
+    "id": 12,
+    "title": "Product Engineer",
+    "company": "Atlassian",
+    "location": "Sydney, Australia",
+    "salary": "$110,000 - $140,000",
+    "description": "Work closely with product teams to deliver customer-focused software solutions."
+  },
+  {
+    "id": 13,
+    "title": "Junior iOS Developer",
+    "company": "Flipkart",
+    "location": "Bangalore, India",
+    "salary": "$60,000 - $80,000",
+    "description": "Assist in developing iOS applications, fixing bugs, and implementing new features."
+  },
+  {
+    "id": 14,
+    "title": "Senior Software Engineer",
+    "company": "Salesforce",
+    "location": "Remote",
+    "salary": "$140,000 - $175,000",
+    "description": "Lead engineering initiatives, mentor junior developers, and build enterprise-grade software."
+  },
+  {
+    "id": 15,
+    "title": "Cloud Engineer",
+    "company": "Oracle",
+    "location": "Austin, TX",
+    "salary": "$120,000 - $155,000",
+    "description": "Design and manage cloud-native solutions using modern infrastructure technologies."
+  }
+]

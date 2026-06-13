@@ -1,0 +1,17 @@
+//
+//  Job.swift
+//  JobSearchDemoApp
+//
+//  Created by Soumya on 12/06/26.
+//
+
+import Foundation
+
+struct Job: Identifiable, Codable {
+    let id: Int
+    let title: String
+    let company: String
+    let location: String
+    let salary: String
+    let description: String
+}
