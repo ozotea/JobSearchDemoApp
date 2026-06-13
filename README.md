@@ -212,17 +212,6 @@ Unit tests are included for:
 
 ---
 
-## Future Improvements
-
-* Integrate a live jobs API.
-* Pagination support.
-* Offline caching.
-* Advanced filters.
-* Favorites / Saved Jobs.
-* UI snapshot testing.
-
----
-
 ## Author
 
 Submitted as part of the JobSearchDemoApp iOS Technical Assessment.
